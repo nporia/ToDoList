@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
       <h1>
-      <img src = {Logo} />
+      <img src = "https://theacademicinsights.com/wp-content/uploads/2020/10/AICTE-logo.jpeg" />
       </h1>
     </header>
   );
